@@ -1,1 +1,1 @@
-"# moviebook" 
+"# Django moviebook" 
